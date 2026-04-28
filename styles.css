@@ -1,3 +1,8 @@
+@import "@bryntum/gantt/fontawesome/css/fontawesome.css";
+@import "@bryntum/gantt/fontawesome/css/solid.css";
+@import "@bryntum/gantt/gantt.css";
+@import "@bryntum/gantt/stockholm-light.css";
+
 body,
 html {
   margin: 0;

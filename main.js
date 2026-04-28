@@ -1,5 +1,4 @@
 import { Gantt } from "@bryntum/gantt";
-import "@bryntum/gantt/gantt.stockholm.min.css";
 
 const gantt = new Gantt({
   appendTo: document.body,
