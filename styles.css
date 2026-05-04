@@ -1,7 +1,7 @@
 @import "@bryntum/gantt/fontawesome/css/fontawesome.css";
 @import "@bryntum/gantt/fontawesome/css/solid.css";
 @import "@bryntum/gantt/gantt.css";
-@import "@bryntum/gantt/stockholm-light.css";
+@import "@bryntum/gantt/svalbard-light.css";
 
 body,
 html {
@@ -9,7 +9,7 @@ html {
   display: flex;
   flex-direction: column;
   height: 100vh;
-  font-family: Lato, "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: Poppins, sans-serif;
   font-size: 14px;
 }
 
